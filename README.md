@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=500&color=F75B25&vCenter=true&random=false&width=435&lines=Greetings%2C+Welcome+to+my+profile!)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/avinal/avinal/main/images/butterfly.gif" width=30%><img src="https://raw.githubusercontent.com/avinal/avinal/main/images/dog.gif" width=20%>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=500&color=F75B25&vCenter=true&random=false&width=435&lines=Greetings%2C+Welcome+to+my+profile!)](https://git.io/typing-svg) 
 
 ![Abhishek Linkedin Banner](https://media.licdn.com/dms/image/D5616AQH-YPeupH_qNg/profile-displaybackgroundimage-shrink_350_1400/0/1704352529507?e=1725494400&v=beta&t=skeRK_jmZ_q1e0ghLHvXUG-hSq3cVbptbUcpaIv7DcI)
 
