@@ -1,6 +1,6 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/avinal/avinal/main/images/butterfly.gif" width=30%><img src="https://raw.githubusercontent.com/avinal/avinal/main/images/dog.gif" width=20%>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=500&color=F75B25&vCenter=true&random=false&width=435&lines=Greetings%2C+Welcome+to+my+profile!)](https://git.io/typing-svg) <img src="https://raw.githubusercontent.com/avinal/avinal/main/images/butterfly.gif" width=30%><img src="https://raw.githubusercontent.com/avinal/avinal/main/images/dog.gif" width=20%>
 
-![Aditya Linkedin Banner](https://user-images.githubusercontent.com/94394661/210163364-f67a4e2d-df8b-4767-949e-796f9049055b.png)
+![Abhishek Linkedin Banner](https://media.licdn.com/dms/image/D5616AQH-YPeupH_qNg/profile-displaybackgroundimage-shrink_350_1400/0/1704352529507?e=1725494400&v=beta&t=skeRK_jmZ_q1e0ghLHvXUG-hSq3cVbptbUcpaIv7DcI)
 
 <h3 align="center">A passionate Android developer from India</h3>
 <br>
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,spring,gradle,idea,mongodb,sqlite,firebase,flask,git,cpp,java,c" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,gradle,sqlite,firebase,git,cpp,java,python,c" />
   </a>
 </p>
 
@@ -26,14 +26,10 @@
 <h3 align="center">Connect with me:</h3>
 <br>
 <p align="center">
-  <a href="https://play.google.com/store/apps/developer?id=Sparklead"><img src="https://i.imgur.com/Fp9IWUJ.png" width="48" alt="PlayStore" data-canonical-src="" style="max-width:100%;"></a>
-<a href="https://github.com/Aditya-gupta99"><img src="https://i.imgur.com/Rlmx2cI.png" alt="GitHub" data-canonical-src="https://img.icons8.com/bubbles/50/000000/github.png" style="max-width:100%;"></a>
-<a href="https://linkedin.com/in/aditya-gupta-009520226" target="blank"><img src="https://i.imgur.com/5Y24cAi.png" alt="LinkedIn" data-canonical-src="https://img.icons8.com/bubbles/50/000000/linkedin.png" style="max-width:100%;"></a>
- 	<a href="https://twitter.com/Aditya_Gupta_99" rel="nofollow"><img src="https://i.imgur.com/ADssleU.png" alt="Twitter" data-canonical-src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" style="max-width:100%;"></a>
-  <a href="mailto:adityagupta9936ad@gmail.com"><img src="https://i.imgur.com/4foiPox.png" alt="Instagram" data-canonical-src="https://img.icons8.com/bubbles/50/000000/email.png" style="max-width:100%;"></a>
+  <a><img src="https://i.imgur.com/Fp9IWUJ.png" width="48" alt="PlayStore" data-canonical-src="" style="max-width:100%;"></a>
+<a href="https://github.com/abhishekkr4747"><img src="https://i.imgur.com/Rlmx2cI.png" alt="GitHub" data-canonical-src="https://img.icons8.com/bubbles/50/000000/github.png" style="max-width:100%;"></a>
+<a href="https://www.linkedin.com/in/abhishek-kumar-299a51223/" target="blank"><img src="https://i.imgur.com/5Y24cAi.png" alt="LinkedIn" data-canonical-src="https://img.icons8.com/bubbles/50/000000/linkedin.png" style="max-width:100%;"></a>
+ 	<a href="https://x.com/Its_Abhi0047" rel="nofollow"><img src="https://i.imgur.com/ADssleU.png" alt="Twitter" data-canonical-src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" style="max-width:100%;"></a>
+  <a href="mailto:ak8384031@gmail.com"><img src="https://i.imgur.com/4foiPox.png" alt="Instagram" data-canonical-src="https://img.icons8.com/bubbles/50/000000/email.png" style="max-width:100%;"></a>
 </p>
 
-<img
-  src="https://raw.githubusercontent.com/Aditya-gupta99/Aditya-gupta99/main/images/stat.svg"
-  alt="Aditya-gupta99 WakaTime Activity"
-/>
